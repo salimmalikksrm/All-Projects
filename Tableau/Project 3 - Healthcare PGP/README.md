@@ -27,3 +27,4 @@ Outcome				Class variable (either 0 or 1). 268 of 768 values are 1, and the othe
 ### Tableau output
 https://public.tableau.com/app/profile/salim.malik3338/viz/Project2-HealthcarePGP/Dashboard?publish=yes
 
+![Project 3 - Healthcare PGP](https://user-images.githubusercontent.com/114754741/230542835-400602b6-4775-4d5b-a0e5-31903c908f1b.png)
