@@ -17,3 +17,4 @@ Sample Superstore
 ### Tableau output
 https://public.tableau.com/app/profile/salim.malik3338/viz/Project2-ComparisonofRegionBasedonSales_16710233871450/Dashboard1?publish=yes
 
+![Project 2 - Comparison of Region Based on Sales](https://user-images.githubusercontent.com/114754741/230542800-4885c28e-dcdb-4a32-ad1b-30c9b3c84d9b.png)
