@@ -13,3 +13,5 @@ The dashboard must demonstrate relationships and trends for the key metrics as f
 
 ### Tableau output
 https://public.tableau.com/app/profile/salim.malik3338/viz/Project3-RealestatePGP/Dashboard1?publish=yes
+
+![Project 4 - Real estate PGP](https://user-images.githubusercontent.com/114754741/230542868-5a4f2ea1-0fa9-4070-ae8b-a95694ebc1d5.png)
