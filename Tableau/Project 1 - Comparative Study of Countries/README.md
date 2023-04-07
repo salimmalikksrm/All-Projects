@@ -19,3 +19,4 @@ Secondary Dataset – Global Financial Development Database
 ### Tableau output
 https://public.tableau.com/app/profile/salim.malik3338/viz/Project1-ComparativeStudyofCountries_16707769554820/Dashboard?publish=yes
 
+![Project 1 - Comparative Study of Countries](https://user-images.githubusercontent.com/114754741/230542745-c9fc90d3-2ac0-425a-acc5-52592c483224.png)
